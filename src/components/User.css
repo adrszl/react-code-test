@@ -1,0 +1,7 @@
+.user {
+    width: 500px;
+    border-bottom: 2px solid rgba(153, 153, 153, .2);
+}
+.user-thumbnail {
+    border-radius: 50%;
+}
